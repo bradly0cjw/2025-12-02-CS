@@ -1,0 +1,58 @@
+﻿using System;
+using System.Collections.Generic; // 用來使用 List
+
+namespace PokemonTraining5
+{
+    // === 第五章：物件導向 (OOP) ===
+    // 目標：定義類別 (Class) 並創造物件 (Object)
+
+    // 1. 定義類別 (設計圖)
+    internal class Pokemon
+    {
+        public string Name;
+        public int Level;
+
+        // 建構子：創造物件時會自動執行的設定
+        public Pokemon(string name, int level)
+        {
+            Name = name;
+            Level = level;
+        }
+    }
+
+    internal class Program
+    {
+        public static void Train5(string[] args)
+        {
+            Console.WriteLine("=== 狩獵地帶 (物件導向版) ===");
+
+            // 2. 建立 List (隊伍/清單)
+            // 這是一個可以動態變長的容器，專門裝 Pokemon
+            List<Pokemon> wildList = new List<Pokemon>();
+
+            // 3. 建立物件 (new) 並加入清單
+            wildList.Add(new Pokemon("綠毛蟲", 3));
+            wildList.Add(new Pokemon("皮卡丘", 15));
+            wildList.Add(new Pokemon("卡比獸", 30));
+
+            Console.WriteLine($"草叢裡探測到 {wildList.Count} 隻寶可夢...");
+
+            // 4. Foreach 迴圈 (遍歷物件)
+            // 把清單裡的每一隻寶可夢抓出來，暫時叫作 p
+            foreach (Pokemon p in wildList)
+            {
+                Console.WriteLine($"\n野生的 {p.Name} (Lv.{p.Level}) 出現了！");
+
+                // 這裡可以結合前面學過的 If, While, Methods 來寫戰鬥邏輯...
+                if (p.Level > 20)
+                {
+                    Console.WriteLine("這隻太強了，直接逃跑！");
+                }
+                else
+                {
+                    Console.WriteLine("丟球捕捉！");
+                }
+            }
+        }
+    }
+}

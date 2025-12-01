@@ -1,0 +1,44 @@
+﻿using System;
+
+namespace PokemonTraining3
+{
+    internal class Program
+    {
+        public static void Train3(string[] args)
+        {
+            // === 第三章：迴圈 (Loops) ===
+            // 目標：學會使用 While 或 For 來重複執行動作
+
+            int safariBalls = 5;
+
+            Console.WriteLine("=== 開始狩獵 (直到球用完為止) ===");
+
+            // 1. While 迴圈：只要條件成立 (球大於0)，就一直執行
+            while (safariBalls > 0)
+            {
+                Console.WriteLine($"\n目前球數: {safariBalls}");
+                Console.WriteLine("遇到了一隻野生寶可夢！丟球嗎？(y/n)");
+                string input = Console.ReadLine();
+
+                if (input == "y")
+                {
+                    safariBalls--; // 這是 safariBalls = safariBalls - 1 的縮寫
+                    Console.WriteLine("丟出狩獵球！");
+                }
+                else
+                {
+                    Console.WriteLine("你決定省下這顆球。");
+                }
+
+                // 2. Break (中斷)：特殊情況強制離開迴圈
+                if (safariBalls == 1)
+                {
+                    Console.WriteLine("警告：這是最後一顆球了！(系統強制保留，結束狩獵)");
+                    break; // 直接跳出 while
+                }
+            }
+
+            Console.WriteLine("\n遊戲結束！");
+        }
+    }
+}

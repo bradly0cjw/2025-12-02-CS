@@ -1,0 +1,14 @@
+C:\Users\CYPONE\Documents\GitHub\2025-12-02-CS\obj\Debug\net8.0\2025-12-02-CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CYPONE\Documents\GitHub\2025-12-02-CS\obj\Debug\net8.0\2025-12-02-CS.AssemblyInfoInputs.cache
+C:\Users\CYPONE\Documents\GitHub\2025-12-02-CS\obj\Debug\net8.0\2025-12-02-CS.AssemblyInfo.cs
+C:\Users\CYPONE\Documents\GitHub\2025-12-02-CS\obj\Debug\net8.0\2025-12-02-CS.csproj.CoreCompileInputs.cache
+C:\Users\CYPONE\Documents\GitHub\2025-12-02-CS\bin\Debug\net8.0\2025-12-02-CS.exe
+C:\Users\CYPONE\Documents\GitHub\2025-12-02-CS\bin\Debug\net8.0\2025-12-02-CS.deps.json
+C:\Users\CYPONE\Documents\GitHub\2025-12-02-CS\bin\Debug\net8.0\2025-12-02-CS.runtimeconfig.json
+C:\Users\CYPONE\Documents\GitHub\2025-12-02-CS\bin\Debug\net8.0\2025-12-02-CS.dll
+C:\Users\CYPONE\Documents\GitHub\2025-12-02-CS\bin\Debug\net8.0\2025-12-02-CS.pdb
+C:\Users\CYPONE\Documents\GitHub\2025-12-02-CS\obj\Debug\net8.0\2025-12-02-CS.dll
+C:\Users\CYPONE\Documents\GitHub\2025-12-02-CS\obj\Debug\net8.0\refint\2025-12-02-CS.dll
+C:\Users\CYPONE\Documents\GitHub\2025-12-02-CS\obj\Debug\net8.0\2025-12-02-CS.pdb
+C:\Users\CYPONE\Documents\GitHub\2025-12-02-CS\obj\Debug\net8.0\2025-12-02-CS.genruntimeconfig.cache
+C:\Users\CYPONE\Documents\GitHub\2025-12-02-CS\obj\Debug\net8.0\ref\2025-12-02-CS.dll

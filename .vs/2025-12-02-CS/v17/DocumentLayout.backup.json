@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CYPONE\\Documents\\GitHub\\2025-12-02-CS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0468E230-F7A7-47EF-BF85-4F6E18724EFB}|2025-12-02-CS.csproj|c:\\users\\cypone\\documents\\github\\2025-12-02-cs\\ch4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0468E230-F7A7-47EF-BF85-4F6E18724EFB}|2025-12-02-CS.csproj|solutionrelative:ch4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0468E230-F7A7-47EF-BF85-4F6E18724EFB}|2025-12-02-CS.csproj|c:\\users\\cypone\\documents\\github\\2025-12-02-cs\\ch5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0468E230-F7A7-47EF-BF85-4F6E18724EFB}|2025-12-02-CS.csproj|solutionrelative:ch5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0468E230-F7A7-47EF-BF85-4F6E18724EFB}|2025-12-02-CS.csproj|c:\\users\\cypone\\documents\\github\\2025-12-02-cs\\ch2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0468E230-F7A7-47EF-BF85-4F6E18724EFB}|2025-12-02-CS.csproj|solutionrelative:ch2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0468E230-F7A7-47EF-BF85-4F6E18724EFB}|2025-12-02-CS.csproj|c:\\users\\cypone\\documents\\github\\2025-12-02-cs\\ch3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0468E230-F7A7-47EF-BF85-4F6E18724EFB}|2025-12-02-CS.csproj|solutionrelative:ch3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0468E230-F7A7-47EF-BF85-4F6E18724EFB}|2025-12-02-CS.csproj|c:\\users\\cypone\\documents\\github\\2025-12-02-cs\\ch1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0468E230-F7A7-47EF-BF85-4F6E18724EFB}|2025-12-02-CS.csproj|solutionrelative:ch1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0468E230-F7A7-47EF-BF85-4F6E18724EFB}|2025-12-02-CS.csproj|c:\\users\\cypone\\documents\\github\\2025-12-02-cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0468E230-F7A7-47EF-BF85-4F6E18724EFB}|2025-12-02-CS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ch5.cs",
+              "DocumentMoniker": "C:\\Users\\CYPONE\\Documents\\GitHub\\2025-12-02-CS\\Ch5.cs",
+              "RelativeDocumentMoniker": "Ch5.cs",
+              "ToolTip": "C:\\Users\\CYPONE\\Documents\\GitHub\\2025-12-02-CS\\Ch5.cs",
+              "RelativeToolTip": "Ch5.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:58:46.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ch4.cs",
+              "DocumentMoniker": "C:\\Users\\CYPONE\\Documents\\GitHub\\2025-12-02-CS\\Ch4.cs",
+              "RelativeDocumentMoniker": "Ch4.cs",
+              "ToolTip": "C:\\Users\\CYPONE\\Documents\\GitHub\\2025-12-02-CS\\Ch4.cs*",
+              "RelativeToolTip": "Ch4.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:58:43.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ch3.cs",
+              "DocumentMoniker": "C:\\Users\\CYPONE\\Documents\\GitHub\\2025-12-02-CS\\Ch3.cs",
+              "RelativeDocumentMoniker": "Ch3.cs",
+              "ToolTip": "C:\\Users\\CYPONE\\Documents\\GitHub\\2025-12-02-CS\\Ch3.cs",
+              "RelativeToolTip": "Ch3.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA2wAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:58:40.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ch2.cs",
+              "DocumentMoniker": "C:\\Users\\CYPONE\\Documents\\GitHub\\2025-12-02-CS\\Ch2.cs",
+              "RelativeDocumentMoniker": "Ch2.cs",
+              "ToolTip": "C:\\Users\\CYPONE\\Documents\\GitHub\\2025-12-02-CS\\Ch2.cs",
+              "RelativeToolTip": "Ch2.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA2wCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:58:29.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ch1.cs",
+              "DocumentMoniker": "C:\\Users\\CYPONE\\Documents\\GitHub\\2025-12-02-CS\\Ch1.cs",
+              "RelativeDocumentMoniker": "Ch1.cs",
+              "ToolTip": "C:\\Users\\CYPONE\\Documents\\GitHub\\2025-12-02-CS\\Ch1.cs",
+              "RelativeToolTip": "Ch1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:58:03.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CYPONE\\Documents\\GitHub\\2025-12-02-CS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\CYPONE\\Documents\\GitHub\\2025-12-02-CS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:57:55.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

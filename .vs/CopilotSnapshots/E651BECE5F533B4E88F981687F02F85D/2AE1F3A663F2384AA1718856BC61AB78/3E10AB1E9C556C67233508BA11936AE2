@@ -1,0 +1,51 @@
+﻿using System;
+
+namespace PokemonTraining2
+{
+    internal class Program
+    {
+        static void Train2(string[] args)
+        {
+            // === 第二章：判斷與決策 (Logic & Decisions) ===
+            // 目標：學會使用 If/Else 來做決定
+
+            int safariBalls = 5;
+            string wildPokemon = "皮卡丘";
+            int catchRate = 60; // 捕捉率 60%
+
+            Console.WriteLine($"野生的 {wildPokemon} 出現了！");
+            Console.WriteLine("你要做什麼？ (1: 丟球, 2: 逃跑)");
+
+            string choice = Console.ReadLine();
+
+            // 1. 基礎判斷 (If/Else)
+            if (choice == "1")
+            {
+                safariBalls = safariBalls - 1;
+                Console.WriteLine($"你丟出了球！剩餘球數: {safariBalls}");
+
+                // 模擬一個亂數 (0~100)
+                Random rng = new Random();
+                int luck = rng.Next(0, 100);
+
+                // 2. 巢狀判斷 (判斷裡面還有判斷)
+                if (luck < catchRate)
+                {
+                    Console.WriteLine("恭喜！捕捉成功！");
+                }
+                else
+                {
+                    Console.WriteLine("哎呀！被牠逃走了！");
+                }
+            }
+            else if (choice == "2") // 多重條件
+            {
+                Console.WriteLine("你轉身逃跑了。");
+            }
+            else
+            {
+                Console.WriteLine("無效的指令，皮卡丘看著你發呆。");
+            }
+        }
+    }
+}

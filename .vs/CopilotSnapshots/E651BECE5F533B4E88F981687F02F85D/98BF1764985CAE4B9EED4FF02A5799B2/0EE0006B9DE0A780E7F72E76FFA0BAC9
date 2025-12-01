@@ -1,0 +1,32 @@
+﻿using System;
+
+namespace PokemonTraining1
+{
+    internal class Program
+    {
+        public static void Train1(string[] args)
+        {
+            // === 第一章：資料與變數 (Data & Variables) ===
+            // 目標：學會輸出(Write)、輸入(Read) 以及宣告變數(int, string)
+
+            Console.WriteLine("=== 歡迎來到豐緣地區狩獵地帶 ===");
+
+            // 1. 輸出與輸入
+            Console.Write("請問訓練家的大名是？: ");
+            string trainerName = Console.ReadLine(); // 等待玩家輸入並存入變數
+
+            // 2. 宣告變數
+            int safariBalls = 5;      // 整數：狩獵球數量
+            float runChance = 0.5f;   // 浮點數：逃跑機率 (記得加 f)
+            bool isNight = true;      // 布林值：是否為晚上
+
+            // 3. 字串串接 (把變數跟文字黏在一起)
+            Console.WriteLine("\n你好, " + trainerName + "!");
+            Console.WriteLine($"你現在有 {safariBalls} 顆狩獵球。"); // $符號是進階寫法，也很方便
+            Console.WriteLine("目前的逃跑機率是: " + runChance);
+
+            Console.WriteLine("\n按下 Enter 準備開始冒險...");
+            Console.ReadLine();
+        }
+    }
+}

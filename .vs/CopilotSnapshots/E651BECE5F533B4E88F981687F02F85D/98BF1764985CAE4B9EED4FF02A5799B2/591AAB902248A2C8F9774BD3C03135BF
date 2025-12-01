@@ -1,0 +1,41 @@
+﻿using System;
+
+namespace PokemonTrainingLauncher
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("請選擇要執行的章節 (1-5)，或輸入 q 離開:");
+            string input = Console.ReadLine();
+
+            switch (input)
+            {
+                case "1":
+                    PokemonTraining1.Program.Train1(args);
+                    break;
+                case "2":
+                    PokemonTraining2.Program.Train2(args);
+                    break;
+                case "3":
+                    PokemonTraining3.Program.Train3(args);
+                    break;
+                case "4":
+                    PokemonTraining4.Program.Train4(args);
+                    break;
+                case "5":
+                    PokemonTraining5.Program.Train5(args);
+                    break;
+                case "q":
+                case "Q":
+                    return;
+                default:
+                    Console.WriteLine("無效的選項。請重新啟動並輸入 1 到 5。");
+                    break;
+            }
+
+            Console.WriteLine("按下 Enter 鍵結束...");
+            Console.ReadLine();
+        }
+    }
+}
